@@ -1,4 +1,4 @@
-# 🏨 AI Hotel Assistant
+# 🏨 AI Hotel Assistant ACT
 
 > An AI-powered hotel assistant that helps guests receive fast, natural, and accurate responses about hotel services, reservations, FAQs, and policies.
 
